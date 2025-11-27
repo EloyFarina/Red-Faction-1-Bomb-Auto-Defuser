@@ -53,11 +53,11 @@ Once everything is configured, you can start the solver.
 ## ▶️ Demo video
 Showing how the tool works:
 
-[![Watch the video](https://img.youtube.com/vi/JlFYQ8lLw_I/0.jpg)](https://youtu.be/JlFYQ8lLw_I)
+[![Watch the video](https://img.youtube.com/vi/nyAR0xqYvnk/0.jpg)](https://youtu.be/nyAR0xqYvnk)
 
 Showing how the tool works when the areas were previously set:
 
-[![Watch the video](https://img.youtube.com/vi/nyAR0xqYvnk/0.jpg)](https://youtu.be/nyAR0xqYvnk)
+[![Watch the video](https://img.youtube.com/vi/Bh79OtsG_II/0.jpg)](https://youtu.be/Bh79OtsG_II)
 
 
 ## 📝 Notes
