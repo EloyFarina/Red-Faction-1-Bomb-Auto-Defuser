@@ -54,6 +54,4 @@ Here you can embed a YouTube video showing how the tool works:
 - Make sure the game window is active before using the tool.
 - Some libraries may require Python to be added to your PATH.
 
-## 📄 License
-(Add your preferred license here.)
 
