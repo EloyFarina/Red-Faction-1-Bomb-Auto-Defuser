@@ -1,7 +1,16 @@
 Prerequisites:
-1) Install Python. Download Python 3.10 or 3.11 from https://www.python.org/downloads/
-2) pip install pyautogui
-3) pip install pynput
-4) pip install pywin32
-5) pip install pygetwindow
-6) pip install psutil
+Python 3.10 or 3.11. Download it from https://www.python.org/downloads/
+pyautogui
+pynput
+pywin32
+pygetwindow
+psutil
+
+
+Steps:
+Once Python is installed, run the following commands
+pip install pyautogui
+pip install pynput
+pip install pywin32
+pip install pygetwindow
+pip install psutil
