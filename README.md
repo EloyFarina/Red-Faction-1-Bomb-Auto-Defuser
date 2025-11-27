@@ -1,17 +1,58 @@
-Prerequisites:
-Python 3.10 or 3.11. Download it from https://www.python.org/downloads/
-pyautogui
-pynput
-pywin32
-pygetwindow
-psutil
+# Project
 
+This tool assists with automatically solving the final bomb-defusing sequence in **Red Faction 1**. The mini-game functions like a memory puzzle: first you must enter **4 correct digits**, and then a second sequence of **7 digits**, all within a strict **47‑second** timer. This program helps automate and speed up that process.
 
+## 📦 Prerequisites
+Make sure you have the following installed:
 
-Steps:
-Once Python is installed, run the following commands
+- **Python 3.10 or 3.11**
+- Python modules:
+  - `pyautogui`
+  - `pynput`
+  - `pywin32`
+  - `pygetwindow`
+  - `psutil`
+
+You can download Python here:
+https://www.python.org/downloads/
+
+## 🔧 Installing Dependencies
+Once Python is installed, run these commands in the terminal:
+
+```bash
 pip install pyautogui
 pip install pynput
 pip install pywin32
 pip install pygetwindow
 pip install psutil
+```
+
+## 🚀 Usage
+Follow these steps to set up and use the tool:
+
+1. **Select the Game Window**  
+   The dropdown will list all running programs. Choose the *Red Faction* or *Alpine Faction* window.
+
+2. **Select the LED Area**  
+   Define the screen region where the bomb LED patterns appear.
+
+3. **Select the 4th Display**  
+   Mark the area corresponding to the fourth display required for the sequence.
+
+4. **Map the Four Arrow Keys**  
+   Configure the directional inputs used during the memory puzzle.
+
+Once everything is configured, you can start the solver.
+
+## ▶️ Demo Video
+Here you can embed a YouTube video showing how the tool works:
+
+*(You will paste the embed code or link here.)*
+
+## 📝 Notes
+- Make sure the game window is active before using the tool.
+- Some libraries may require Python to be added to your PATH.
+
+## 📄 License
+(Add your preferred license here.)
+
