@@ -7,6 +7,7 @@ pygetwindow
 psutil
 
 
+
 Steps:
 Once Python is installed, run the following commands
 pip install pyautogui
