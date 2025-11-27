@@ -40,7 +40,7 @@ Follow these steps to set up and use the tool:
    The dropdown will list all running programs. Choose the *Red Faction* or *Alpine Faction* window.
 
 2. **Select the LED Area**  
-   Define the screen region where the bomb LED patterns appear.
+   Define the screen region where the bomb LED appear.
 
 3. **Select the 4th Display**  
    Mark the area corresponding to the fourth display required for the sequence.
