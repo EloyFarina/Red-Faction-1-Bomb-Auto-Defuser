@@ -47,7 +47,8 @@ Once everything is configured, you can start the solver.
 ## ▶️ Demo Video
 Here you can embed a YouTube video showing how the tool works:
 
-*(You will paste the embed code or link here.)*
+[![Watch the video](https://img.youtube.com/vi/nyAR0xqYvnk/0.jpg)](https://youtu.be/nyAR0xqYvnk)
+
 
 ## 📝 Notes
 - Make sure the game window is active before using the tool.
