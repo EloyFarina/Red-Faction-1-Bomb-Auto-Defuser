@@ -45,7 +45,7 @@ Follow these steps to set up and use the tool:
 Once everything is configured, you can start the solver.
 
 ## ▶️ Demo video
-Here you can embed a YouTube video showing how the tool works:
+Showing how the tool works:
 
 [![Watch the video](https://img.youtube.com/vi/nyAR0xqYvnk/0.jpg)](https://youtu.be/nyAR0xqYvnk)
 
