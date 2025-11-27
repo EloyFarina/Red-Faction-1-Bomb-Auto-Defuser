@@ -1,6 +1,12 @@
 # Project
 
-This tool assists with automatically solving the final bomb-defusing sequence in **Red Faction 1**. The mini-game functions like a memory puzzle: first you must enter **4 correct digits**, and then a second sequence of **7 digits**, all within a strict **47‑second** timer. This program helps automate and speed up that process.
+This tool assists with automatically solving the final bomb-defusing sequence in Red Faction 1. The mini-game works like a memory puzzle: first you must enter 4 correct digits, and then a second sequence of 7 digits, all under a strict time limit. This program helps automate and speed up that process.
+
+The available time varies depending on the selected difficulty:
+  - Easy: 1:02
+  - Medium: 0:47
+  - Hard: 0:41
+  - Impossible: 0:30
 
 ## 📦 Prerequisites
 Make sure you have the following installed:
