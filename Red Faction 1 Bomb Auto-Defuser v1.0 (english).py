@@ -271,13 +271,7 @@ def bot_loop():
             time.sleep(0.1)
 
 # =================================================================================
-# --- QUICK DEBUG FUNCTION (CONTINUOUS MONITORING) ---
-# (SECTION REMOVED)
-# =================================================================================
-
-# =================================================================================
 # --- GUI AND UTILITIES ---
-# (This section does not require changes, except the final packaging part)
 # =================================================================================
 
 def focus_game_window():
@@ -421,4 +415,5 @@ status_label = tk.Label(root, text="Ready"); status_label.pack(pady=5)
 tk.Label(root, text="by Eloy Farina", font=("Arial", 7)).pack(fill='x', anchor='e', padx=20)
 
 root.after(500, refresh_windows)
+
 root.mainloop()
