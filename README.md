@@ -11,7 +11,7 @@ The available time varies depending on the selected difficulty:
 ## 📦 Prerequisites
 Make sure you have the following installed:
 
-- **Python 3.10 or 3.11**
+- **Python 3.10 or higher**
 - Python modules:
   - `pyautogui`
   - `pynput`
