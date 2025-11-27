@@ -16,7 +16,7 @@ Make sure you have the following installed:
 You can download Python here:
 https://www.python.org/downloads/
 
-## 🔧 Installing Dependencies
+## 🔧 Installing dependencies
 Once Python is installed, run these commands in the terminal:
 
 ```bash
@@ -44,7 +44,7 @@ Follow these steps to set up and use the tool:
 
 Once everything is configured, you can start the solver.
 
-## ▶️ Demo Video
+## ▶️ Demo video
 Here you can embed a YouTube video showing how the tool works:
 
 [![Watch the video](https://img.youtube.com/vi/nyAR0xqYvnk/0.jpg)](https://youtu.be/nyAR0xqYvnk)
