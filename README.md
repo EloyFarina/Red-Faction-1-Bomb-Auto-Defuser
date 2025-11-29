@@ -62,6 +62,4 @@ Showing how the tool works when the areas were previously set:
 
 ## 📝 Notes
 - Make sure the game window is active before using the tool.
-- Some libraries may require Python to be added to your PATH.
-
 
